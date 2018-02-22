@@ -223,7 +223,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 var CatalogoComponent = (function () {
     function CatalogoComponent() {
-        this.pdfSrc = "/assets/catalogo.pdf";
+        this.pdfSrc = "/../../assets/catalogo.pdf";
     }
     CatalogoComponent.prototype.ngOnInit = function () {
     };
