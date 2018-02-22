@@ -201,7 +201,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/components/catalogo/catalogo.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<section class=\"grid\">\r\n  <div class=\"catalogo\">\r\n    <h2>Catalogo</h2>\r\n    <pdf-viewer [src]=\"pdfSrc\" \r\n      [render-text]=\"true\"\r\n      \r\n      [original-size]=\"false\"\r\n      [autoresize]=\"true\"\r\n      style=\"display: block;\"\r\n  ></pdf-viewer>\r\n  </div>\r\n</section>\r\n"
+module.exports = "<section class=\"grid\">\r\n  <div class=\"catalogo\">\r\n    <h2>Catalogo</h2>\r\n    <pdf-viewer [src]=\"/assets/catalogo.pdf\" \r\n      [render-text]=\"true\"\r\n      \r\n      [original-size]=\"false\"\r\n      [autoresize]=\"true\"\r\n      style=\"display: block;\"\r\n  ></pdf-viewer>\r\n  </div>\r\n</section>\r\n"
 
 /***/ }),
 
